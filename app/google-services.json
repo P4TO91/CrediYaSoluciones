@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566781366651",
+    "project_id": "chatgrupo1-66feb",
+    "storage_bucket": "chatgrupo1-66feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566781366651:android:d48d735546562a74262dde",
+        "android_client_info": {
+          "package_name": "com.example.chatgrupo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xHBrYRlS81xmEeJ99yeSlfEtLRoH0XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
